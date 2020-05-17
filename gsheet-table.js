@@ -1,4 +1,4 @@
-function sheet2table(sheeturl,sheetNo, tableID){
+function gsheet2table(sheeturl,sheetNo, tableID){
 
     //Converting Sheeturl to the sheetID required
     var sheetID = sheeturl;
